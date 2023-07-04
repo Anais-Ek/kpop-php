@@ -1,0 +1,17 @@
+{
+    "name": "anaise/kpop-php",
+    "description": "rendu1",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Anaise\\KpopPhp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "anais"
+        }
+    ],
+    "require": {}
+}
